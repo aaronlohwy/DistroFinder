@@ -1,0 +1,394 @@
+AF_AM_ST 210 Survey of African American Literature VI
+AF_AM_ST 211 Literatures of the Black World VI
+AF_AM_ST 225 African American Culture VI
+AF_AM_ST 259 Introduction to African American Drama VI
+AF_AM_ST 261 Queer Literatures in the African Diaspora VI
+AF_AM_ST 327 Politics of Black Popular Culture III,VI
+AF_AM_ST 331 The African American Novel VI
+AF_AM_ST 360 Major Authors VI
+AF_AM_ST 378 The Harlem Renaissance VI
+AF_AM_ST 379 Black Women Writers VI
+AF_ST 276 African Literature in Translation; with COMP_LIT 276 VI
+ARABIC 316-1 Reading Arabic Poetry (Arabic prereq) VI
+ARABIC 316-2 Reading Classical Arabic Texts (Arabic prereq) VI
+ARABIC 316-3 Reading Modern Arabic Prose (Arabic prereq) VI
+ART 270 Contemporary Art Survey VI
+ART 272 Critical Methods for Contemporary Art VI
+ART_HIST 210 Introduction to ART_HISTory IV,VI
+ART_HIST 220 Introduction to African Art VI
+ART_HIST 222 ART_HISTory and the African Diaspora IV,VI
+ART_HIST 224 Introduction to Ancient Art VI
+ART_HIST 225 Introduction to Medieval Art IV,VI
+ART_HIST 228 Introduction to Pre-Columbian Art VI
+ART_HIST 230 Introduction to American Art VI
+ART_HIST 232 Introduction to the History of Architecture and Design VI
+ART_HIST 235 Introduction to Latin American Art VI
+ART_HIST 240 Introduction to Asian Art VI
+ART_HIST 250 Introduction to European Art VI
+ART_HIST 255 Introduction to Modernism IV,VI
+ART_HIST 260 Introduction to Contemporary Ar
+ART_HIST 310-1 Ancient Art VI
+ART_HIST 310-2 Ancient Art VI
+ART_HIST 318 Exhibiting A
+ART_HIST 320-1 Medieval Art VI
+ART_HIST 320-2 Medieval Art VI
+ART_HIST 320-3 Medieval Art VI
+ART_HIST 330-1 Renaissance Art VI
+ART_HIST 330-2 Renaissance Art VI
+ART_HIST 330-3 Renaissance Art VI
+ART_HIST 340-1 Baroque Art VI
+ART_HIST 340-2 Baroque Art VI
+ART_HIST 350-1 19th-Century Art VI
+ART_HIST 350-2 19th-Century Art VI
+ART_HIST 360-1 20th-Century European Art VI
+ART_HIST 360-2 20th-Century European Art VI
+ART_HIST 365-1 American Art VI
+ART_HIST 365-2 American Art VI
+ART_HIST 370-1 Modern Architecture and Design VI
+ART_HIST 370-2 Modern Architecture and Design VI
+ART_HIST 372-1 Japanese Art VI
+ART_HIST 372-2 Japanese Art VI
+ART_HIST 378 Architecture & Urbanism of the World City in the 20th Century VI
+ART_HIST 380-1 Tibetan Buddhist Art VI
+ART_HIST 380-2 Tibetan Buddhist Art VI
+ART_HIST 382-1 Chinese Painting VI
+ART_HIST 382-2 Chinese Painting VI
+ART_HIST 384 African American Art VI
+ART_HIST 385 Black Visual Culture: Race and Representation VI
+ART_HIST 386 Art of Africa VI
+ART_HIST 395 Museums VI
+ASIAN_AM 247 Asian Americans and Popular Culture VI
+ASIAN_AM 275 Introduction to Asian American Literature VI
+ASIAN_AM 380 Studies in Arts and Performance VI
+ASIAN_LC 271-1 Japa
+ASIAN_LC 271-2 Japane
+ASIAN_LC 271-3 Japane
+ASIAN_LC 271-4 Japan
+ASIAN_LC 274-1 Introd
+ASIAN_LC 274-2 Introdu
+ASIAN_LC 274-3 Introduc
+ASIAN_LC 290 Introductory Topics in Asian Languages and Cultures VI
+ASIAN_LC 390 Advanced Topics in Asian Languages and Cultures VI
+ASIAN_ST 290-6 Introductory Topics in Asian Studies (Literature & Fine Arts) VI
+ASIAN_ST 390-6 Advanced Topics in Asian Studies (Literature & Fine Arts) VI
+CLASSICS 210 The World of Homer; with HUM 205 IV,V,VI
+CLASSICS 211 Ancient Athens: Democracy, Drama, and Civilization IV,V,VI
+CLASSICS 212 Rome: Culture and Empire IV,V,VIp. 3
+CLASSICS 245 Classics and the Cinema VI
+CLASSICS 260 Classical Mythology V,VI
+CLASSICS 310 Archaeology of the Ancient Mediterranean IV,VI
+CLASSICS 340 Greek and Roman Drama VI
+CLASSICS 350 Greek and Latin Literature VI
+CLASSICS 397 Exhibiting
+COMP_LIT 201 Reading World Literature VI
+COMP_LIT 202 Interpreting Culture VI
+COMP_LIT 205 Gender, Sexuality, and Representation; with GNDR_ST 231 VI
+COMP_LIT 206 Literature & Media VI
+COMP_LIT 210 The Bible as Literature; with ENGLISH 220 V,VI
+COMP_LIT 211 Topics in Genre VI
+COMP_LIT 271-1 Japanese Literature in Translation; with ASIAN_LC 271-1 VI
+COMP_LIT 271-2 Japanese Literature in Translation; with ASIAN_LC 271-2 VI
+COMP_LIT 271-3 Japanese Literature in Translation; with ASIAN_LC 271-3 VI
+COMP_LIT 271-4 Japanese Literature in Translation; with ASIAN_LC 271-4 VI
+COMP_LIT 274-1 Introduction to Chinese Literature; with ASIAN_LC 274-1 VI
+COMP_LIT 274-2 Introduction to Chinese Literature; with ASIAN_LC 274-2 VI
+COMP_LIT 274-3 Introduction to Chinese Literature; with ASIAN_LC 274-3 VI
+COMP_LIT 275 Arabic Literature in Translation; with MENA 275 VI
+COMP_LIT 276 African Literature in Translation; with AF ST 276 VI
+COMP_LIT 278-1 Modern Hebrew Literature in Translation; with JWSH_ST 278-1 VI
+COMP_LIT 278-2 Modern Hebrew Literature in Translation; with JWSH_ST 278-2 VI
+COMP_LIT 279 Modern Jewish Literature; with JWSH_ST 279 VI
+COMP_LIT 301 Practices of Reading VI
+COMP_LIT 302 Major Periods in World Literature VI
+COMP_LIT 303 Literary Movements VI
+COMP_LIT 304 Studies in Theme VI
+COMP_LIT 305 World Cinemas VI
+COMP_LIT 312 Authors and Their Readers VI
+COMP_LIT 313 Texts and Contexts VI
+ENGLISH 210-1 English Literary Traditions VI
+ENGLISH 210-2 English Literary Traditions VI
+ENGLISH 211 Introduction to Poetry VI
+ENGLISH 212 Introduction to Drama VI
+ENGLISH 213 Introduction to Fiction VI
+ENGLISH 214 Introduction to Film and Its Literatures (1-time approval for 2014-15) VI
+ENGLISH 220 The Bible as Literature; with COMP_LIT 210 V,VI
+ENGLISH 234 Introduction to Shakespeare VI
+ENGLISH 270-1 American Literary Traditions VI
+ENGLISH 270-2 American Literary Traditions VI
+ENGLISH 273 Introduction to 20th-Century American Literature VI
+ENGLISH 275 Introduction to Asian American Literature VI
+ENGLISH 277 Introduction to Latina and Latino Litera
+ENGLISH 302 History of the English Language VI
+ENGLISH 310 Studies in Literary Genres VI
+ENGLISH 311 Studies in Poetry VI
+ENGLISH 312 Studies in Drama VI
+ENGLISH 313 Studies in Fiction VI
+ENGLISH 320 Medieval English Literature VI
+ENGLISH 322 Medieval Drama VI
+ENGLISH 323-1 Chaucer VI
+ENGLISH 323-2 Chaucer VIp. 4
+ENGLISH 324 Studies in Medieval Literature VI
+ENGLISH 331 Renaissance Poetry VI
+ENGLISH 332 Renaissance Drama VI
+ENGLISH 333 Spenser VI
+ENGLISH 334-1 Shakespeare VI
+ENGLISH 334-2 Shakespeare VI
+ENGLISH 335 Milton VI
+ENGLISH 338 Studies in Renaissance Literature VI
+ENGLISH 339 Special Topics in Shakespeare VI
+ENGLISH 340 Restoration & 18th-Century Literature VI
+ENGLISH 341 Restoration & 18th-Century Poetry VI
+ENGLISH 342 Restoration & 18th-Century Drama VI
+ENGLISH 343 18th-Century Prose VI
+ENGLISH 344 18th-Century Fiction VI
+ENGLISH 348 Studies in Restoration and 18th-Century Literature VI
+ENGLISH 350 19th-Century British Literature VI
+ENGLISH 351 Romantic Poetry VI
+ENGLISH 353 Studies in Romantic Literature VI
+ENGLISH 356 Victorian Poetry VI
+ENGLISH 357 19th-Century British Fiction VI
+ENGLISH 358 Dickens VI
+ENGLISH 359 Studies in Victorian Literature VI
+ENGLISH 360 20th-Century British & American Literature VI
+ENGLISH 361-1 20th-Century Poetry VI
+ENGLISH 361-2 20th-Century Poetry VI
+ENGLISH 363-1 20th-Century Fiction VI
+ENGLISH 363-2 20th-Century Fiction VI
+ENGLISH 365 Studies in Postcolonial Literature VI
+ENGLISH 366 Studies in African American Literature VI
+ENGLISH 367 Postwar British Fiction VI
+ENGLISH 368 Studies in 20th-Century Literature VI
+ENGLISH 369 Studies in African Literature VI
+ENGLISH 370 American Literature before 1914 VI
+ENGLISH 371 American Novel VI
+ENGLISH 372 American Poetry VI
+ENGLISH 375 Topics in Asian American Literature VI
+ENGLISH 377 Topics in Latina and Latino Literature VI
+ENGLISH 378 Studies in American Literature VI
+ENGLISH 383 Special Topics in Theory VI
+ENGLISH 385 Topics in Combined Studies VI
+ENGLISH 386 Studies in Literature and Film VI
+FRENCH 210 Reading Literatures in French (French prereq.) VI
+FRENCH 211 Reading Cultures in French (French prereq.) VI
+FRENCH 271 Introducing the Novel (French prereq.) VI
+FRENCH 272 Introducting Theater (French prereq.) VI
+FRENCH 277 Literature of Existentialism V,VI
+FRENCH 278 The Novel in Translation VI
+FRENCH 279 Theater in Translation VI
+FRENCH 310 The Middle Ages and Renaissance (French prereq.) VI
+FRENCH 312 Classicism and Enlightenment (French prereq.) VI
+FRENCH 314 The Age of Revolutions and Colonialism (French prereq.) VI
+FRENCH 316 The Contemporary French-Speaking World (French prereq.) VI
+FRENCH 322 Medieval French Narratives (French prereq.) VI
+FRENCH 333 Topics in Renaissance Literature (French prereq.) VI
+FRENCH 335 17th-Century Literature (French prereq.) VIp. 5
+FRENCH 340 Sexual Politics and the Ancien Regime (French prereq.) VI
+FRENCH 342 France in the Age of Scandals (French prereq.) VI
+FRENCH 344 Rousseau and the French Revolution (French prereq.) VI
+FRENCH 346 The Enlightenment and the World (French prereq.) VI
+FRENCH 350 The Novel in French (French prereq.) VI
+FRENCH 355 The Invention of Modernity (French prereq.) VI
+FRENCH 360 From 
+FRENCH 362 African Literatures and Cultures (French prereq.) VI
+FRENCH 364 Caribbean Literatures and Cultures (French prereq.) VI
+FRENCH 371 Giants, Cannibals, and Critique in the Renaissance VI
+FRENCH 374 Proust VI
+FRENCH 375 French Film VI
+FRENCH 376 Gender and Sexuality VI
+FRENCH 378 Contemporary Theory VI
+FRENCH 379 Advanced Topics in French Culture and Literature VI
+FRENCH 380 Political and Social Thought in France (French prereq.) VI
+FRENCH 382 Literature and Exoticism (French prereq.) VI
+FRENCH 384 Women Writing in French (French prereq.) VI
+FRENCH 386 Gender and Writing (French prereq.) VI
+FRENCH 390 Topics in Culture (French prereq.) VI
+GEN_CMN 103 Analysis and Performance of Literature VI
+GEN_LA 280-6 Residential College Tutorial - VI (Literature and Fine Arts) VI
+GEN_MUS 170 Introduction to Music VI
+GEN_MUS 175 Selected Topics in Music Literature VI
+GEN_MUS 220 History of the Symphony VI
+GEN_MUS 230 History of Opera VI
+GEN_MUS 250 History of Rock VI
+GEN_MUS 270-1 The Western Musical Tradition VI
+GEN_MUS 270-2 The Western Musical Tradition VI
+GERMAN 211 German Culture through Film (German prereq) VI
+GERMAN 221-1 Introduction to Literature: 1800-1900 (German prereq.) VI
+GERMAN 221-2 Introduction to Literature: 1900-1945 (German prereq.) VI
+GERMAN 221-3 Introduction to Literature: 1945-today (German prereq.) VI
+GERMAN 223 Contemporary Austrian Literature (German prereq.) VI
+GERMAN 226 New Voices in German Literature VI
+GERMAN 228 German Film VI
+GERMAN 230 Berlin and the Culture of Democracy IV,VI
+GERMAN 232 The Theme of Faust through the Ages V,VI
+GERMAN 234-1 Jews & Germans: Intercultural History IV,V,VI
+GERMAN 234-2 Jews & Germans: Intercultural History IV,V,VI
+GERMAN 236 Kafka and Nietzsche V,VI
+GERMAN 238 Turn-of-the-Century Vienna VI
+GERMAN 240 Berlin: Weimar Culture VI
+GERMAN 242 Imagining Modern Jewish Culture in
+GERMAN 245 Special Topics in German Literature & Culture (German prereq.) VI
+GERMAN 266 Intro
+GERMAN 321-1 Reason, Revolution, & Despair: 1800-1900 (German prereq.) IV,VI
+GERMAN 321-2 Myth & Modernity: 1900-1945 (German prereq.) IV,VI
+GERMAN 321-3 Recoveries & Transitions: 1945 to Present (German prereq.) IV,VI
+GERMAN 322 German Contributions to World Literature VI
+GERMAN 323 Rhyme and Reason in German Poetry (German prereq) VI
+GERMAN 324 Modern German Drama VIp. 6
+GERMAN 327 German Expressionism (German prereq.) VI
+GERMAN 329 Brecht: Theater, Film, and Media (German prereq) VI
+GERMAN 331 Shattered Worlds: Representation after the Shoa (German prereq.) VI
+GERMAN 333 Literature of a Divided Nation (German prereq.) VI
+GERMAN 334 Writers and their Critics VI
+GERMAN 335 Minority Voices in Germany (German prereq.) VI
+GERMAN 366 The Rise 
+GNDR_ST 231 Gender, Sexuality, and Representation; with COMP_LIT 205 VI
+GNDR_ST 350-6 Resea
+GNDR_ST 361 Gender, Sexuality, and Literature VI
+GNDR_ST 362 Gender, Sexuality, and Drama VI
+GNDR_ST 363 Postcolonial Studies and Gender and Sexuality VI
+GNDR_ST 372 Gender, Sexuality, and Performance VI
+GNDR_ST 373 Gender, Sexuality, and Film VI
+GNDR_ST 374 Gender, Sexuality, and Digital Technologies VI
+GNDR_ST 381 Queer Theory VI
+GNDR_ST 382 Race, Gender, and Sexuality VI
+GREEK 301 Readings in Greek Literature (Greek prereq.) VI
+HEBREW 216-1 Hebrew III: Topics in Hebrew Literature (Hebrew prereq) VI
+HEBREW 216-2 Hebrew III: Topics in Hebrew Literature (Hebrew prereq) VI
+HEBREW 216-3 Hebrew III: Topics in Hebrew Literature (Hebrew prereq) VI
+HEBREW 316-1 Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq) VI
+HEBREW 316-2 Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq) VI
+HEBREW 316-3 Hebrew IV: Advanced Topics in Hebrew Literature (Hebrew prereq) VI
+HUM 205 The World of Homer; with CLASSICS 210 IV,V,VI
+HUM 210 Humanities in the World-1 VGNDR
+HUM 225 Media Theory VI
+HUM 260 Humanities Explorations V,VI
+HUM 397 Exhibiting Antiquity: The Cu
+ITALIAN 202 Italian through Performance (Italian prereq.) VI
+ITALIAN 204 Introducing Italian Literature (Italian prereq.) VI
+ITALIAN 230 Italian Theatre and Performance VI
+ITALIAN 250 Topics in Italian Culture and Literature VI
+ITALIAN 251 Introduction to Italian Cinema VI
+ITALIAN 265 Body & Soul from Rome to the Renaissance IV,VI
+ITALIAN 270 Michelangelo and the Italian Renaissance IV,VI
+ITALIAN 275 Dante's Divine Comedy VI
+ITALIAN 277 Neorealism and International Film: Framing Reality VI
+ITALIAN 306 Borders & Margins (Italian prereq) VI
+ITALIAN 310 Reading Italian Literature (Italian prereq) VI
+ITALIAN 347 Visual and Literary Culture in Italy (Italian prereq) VI
+ITALIAN 348 The Italian Novella (Italian prereq) VI
+ITALIAN 349 Topics in Italian Culture and Literature (Italian prereq) VI
+ITALIAN 350 Advanced Topics in Italian Culture and Literature VI
+ITALIAN 351 Italian Film and Transnational Cinema VI
+ITALIAN 360 From the Avant-Garde to the Postmodern VI
+ITALIAN 374 Love and Sexuality in the Early Modern Period VI
+ITALIAN 377 Gender and Sexuality in 20th Century Italian Culture VI
+ITALIAN 378 Against Acting: Spectacle and Performance in Italy VI
+JAPANESE 311-1 Japanes
+JWSH_ST 242 Imagining 
+JWSH_ST 266 Introduction 
+JWSH_ST 278-1 Modern Hebrew Literature in Translation; with COMP_LIT 278-1 VI
+JWSH_ST 278-2 Modern Hebrew Literature in Translation; with COMP_LIT 278-2 VI
+JWSH_ST 279 Modern Jewish Literature; with COMP_LIT 279 VI
+JWSH_ST 350 Representing the Holocaust in Literature and Film VI
+JWSH_ST 366 The Rise 
+JWSH_ST 379 Storytelling in American Jewish Literature VI
+JWSH_ST 396 Topics in Modern Jewish Culture VI
+LATIN 310 Readings in Latin Literature (Latin prereq) VI
+LATINO 201-3 Introduction to Latina and Latino Cultural Studies VI
+LATINO 277 Intro
+LATINO 393 Topics in Latina and Latino Text and Representation VI
+MENA 275 Arabic Literature in Translation (moved to MENA from AMES) VI
+MENA 290-6 Intr
+MENA 390-6 Adv
+MUSICOL 323 Topics in Ethnomusicology VI
+MUSICOL 329 Music and Islam VIFJWSH
+MUSICOL 330 Russian Fairy Tale and Opera VI
+MUSICOL 331 Orientalism and Music VI
+MUSICOL 335 Selected Topics in Musicology VI
+MUSICOL 339 Music and Gender VI
+MUSICOL 341 Music and the Visual Arts VI
+MUSICOL 342 Authenticity VI
+MUSICOL 350 Topics in Medieval Music VI
+MUSICOL 351 Topics in 16th Century Music VI
+PHIL 280 Introduction to the Philosophy of Art VI
+PORT 210 Icons, Legends, and Myths in Brazil (may have Portuguese prereq.) IV,VI
+PORT 380 Contemporary Brazil: Literature and Film VI
+PORT 396 Topics in Lusophone Cultures VI
+RTVF 220 Analyzing Media Texts VI
+RTVF 230 Understanding Media Contexts VI
+RTVF 312-1 History of Film VI
+RTVF 312-2 History of Film VI
+RTVF 313-1 Documentary Film: History and Criticism VI
+RTVF 313-2 Documentary Film and Video VI
+RTVF 321 Radio/Television/Film Authorship VI
+RTVF 322 Radio/Television/Film Genre VI
+RTVF 323-1 Experimental Film: History and Criticism VI
+RTVF 323-2 Experimental Film and Video VI
+RTVF 326 Film and TV Criticism VI
+RTVF 351 National Cinema VI
+SLAVIC 210-1 Introduction to Russian Literature VI
+SLAVIC 210-2 Introduction to Russian Literature VI
+SLAVIC 210-3 Introduction to Russian Literature VI
+SLAVIC 211-1 20th-Century Russian Literature VI
+SLAVIC 211-2 20th-Century Russian Literature VI
+SLAVIC 267 Czech Culture: Film, Visual Arts, Music VI
+SLAVIC 278-1 Visual Art in the Context of Russian Culture VIp. 8
+SLAVIC 278-2 Visual Art in the Context of Russian Culture VI
+SLAVIC 310 Tolstoy VI
+SLAVIC 311 Dostoevsky VI
+SLAVIC 313 Nabokov VI
+SLAVIC 314 Chekhov VI
+SLAVIC 350 Folklore, Music, Poetry VI
+SLAVIC 358-1 Polish for Advanced & Native Speakers (Polish prereq.) VI
+SLAVIC 358-2 Polish for Advanced & Native Speakers (Polish prereq.) VI
+SLAVIC 359-1 Russian Prose (Russian prereq.) VI
+SLAVIC 359-2 Russian Prose (Russian prereq.) VI
+SLAVIC 360 Survey of 19th-Century Russian Poetry (Russian prereq.) VI
+SLAVIC 361 Survey of 20th-Century Russian Poetry (Russian prereq.) VI
+SLAVIC 367-1 Russian Film VI
+SLAVIC 367-2 Russian Film VI
+SLAVIC 368 Andrei Tarkovsky's Aesthetics & World Cinema VI
+SLAVIC 369 200 Years of Russian Drama VI
+SLAVIC 390 Literature & Politics in Central and Eastern Europe IV,VI
+SLAVIC 392 East European Literature and Visual Arts VI
+SLAVIC 393 Prague: City of Cultures, City of Conflict IV,VI
+SPANISH 210 Icons, Legends, & Myths in Spain (Spanish prereq.) VI
+SPANISH 211 Icons, Legends, & Myths in Latin America (Spanish prereq.) VI
+SPANISH 220 Introduction to Literary Analysis (Spanish prereq.) VI
+SPANISH 223 Cervantes VI
+SPANISH 230 Margins & Centers in Latin American Literature & Culture VI
+SPANISH 231 The "New" Latin American Narrative VI
+SPANISH 232 Discovering WSH
+SPANISH 261 Literature in Latin America since 1888 (Spanish prereq.) VI
+SPANISH 277 Introdu
+SPANISH 301 Topics in Language (Spanish prereq.) VI
+SPANISH 310 Origins of Spanish Civilization (Spanish prereq.) VI
+SPANISH 320 Golden Age of Poetry and Prose (Spanish prereq.) VI
+SPANISH 321 Golden Age Drama (Spanish prereq.) VI
+SPANISH 323 Cervantes' Don Quijote (Spanish prereq.) VI
+SPANISH 330 The Age of Romanticism in Spain (Spanish prereq.) VI
+SPANISH 331 Realism in Spain: The Problem of Representation (Spanish prereq.) VI
+SPANISH 332 Avant-Garde Writers and Experimental Fiction in Spain (Span. prereq.) VI
+SPANISH 333 The Spanish Civil War: The Good Fight (Spanish prereq.) VI
+SPANISH 334 Memory, History, and Fiction in Spain since 1930 (Spanish prereq.) VI
+SPANISH 335 Modern Fiction in Spain: Studies in Genre (Spanish prereq.) VI
+SPANISH 340 Colonial Latin American Literature (Spanish prereq.) VI
+SPANISH 341 Latin American Modernisimo (Spanish prereq.) VI
+SPANISH 342 Region & Rootedness in Latin America (Spanish prereq.) VI
+SPANISH 343 Latin American Avant-Gardes (Spanish prereq.) VI
+SPANISH 344 Borges (Spanish prereq.) VI
+SPANISH 345 Reading the "Boom" (Spanish prereq.) VI
+SPANISH 346 Testimonial Narrative in Latin America (Spanish prereq.) VI
+SPANISH 347 Literature and Revolution in Latin America (Spanish prereq.) VI
+SPANISH 348 Readings in Latin American Short Fiction (Spanish prereq.) VI
+SPANISH 360 Spain: Studies in Culture and Society (Spanish prereq.) VI
+SPANISH 361 Latin America: Studies in Culture and Society (Spanish prereq.) VIp. 9
+SPANISH 363 Top
+SPANISH 380 Top
+SPANISH 395 Topi
+SPANISH 397 Topics in Latin American, Latina and Latino, and/or Iberian Literatures and VI
+SWAHILI 216-1 Introduction to Swahili Literature (Swahili prereq) VI
+SWAHILI 216-2 Introduction to Swahili Literature (Swahili prereq) VI
+SWAHILI 216-3 Introduction to Swahili Literature (Swahili prereq) VI
+YIDDISH 266 Int
+YIDDISH 366 
